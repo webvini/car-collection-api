@@ -1,0 +1,9 @@
+{
+  "name": "car-collection-api",
+  "description": "A API for study and practice NodeJS",
+  "version": "0.0.1",
+  "author": "Vinicius Silva",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
